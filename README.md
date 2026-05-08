@@ -23,3 +23,6 @@ This project analyzes 7,668 movies (1980–2020) to answer one key question:
 - Average gross revenue by genre
 - Top 10 highest-grossing movies of all time
 - Best-performing movie in each genre (using CTE + JOIN)
+
+## Dashboard
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sarah.yu3830/viz/MovieIndustryAnalysis_17781897405740/DirectorsCompaniesStars)
